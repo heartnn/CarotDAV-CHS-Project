@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebDAVClientSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormSize>
+    <Width>1196</Width>
+    <Height>723</Height>
+  </FormSize>
+  <ConnectionSettingListFormSize>
+    <Width>0</Width>
+    <Height>0</Height>
+  </ConnectionSettingListFormSize>
+  <View>SmallIcon</View>
+  <ShowLogWindow>false</ShowLogWindow>
+  <ShowStatusBar>true</ShowStatusBar>
+  <ColumnIndexs>
+    <int>0</int>
+    <int>4</int>
+    <int>5</int>
+    <int>1</int>
+    <int>2</int>
+    <int>3</int>
+  </ColumnIndexs>
+  <ColumnWidth>
+    <int>222</int>
+    <int>2379</int>
+    <int>147</int>
+    <int>57</int>
+    <int>174</int>
+    <int>174</int>
+  </ColumnWidth>
+  <AutoColumnWidth>true</AutoColumnWidth>
+  <Group>None</Group>
+  <SortString>Name,Last Modified</SortString>
+  <VersionCheckEnabled>true</VersionCheckEnabled>
+  <EnableFileLogging>false</EnableFileLogging>
+  <BackgroundImagePath />
+  <LastConnectionSetting />
+  <MaxFaviconSize>1048576</MaxFaviconSize>
+  <ServerIP>127.0.0.1</ServerIP>
+  <ServerPort>12346</ServerPort>
+  <AutoEnableDAVServer>false</AutoEnableDAVServer>
+  <AutoMoundDriveLetter />
+  <AutoMoundWebFolder>false</AutoMoundWebFolder>
+  <ConnectionSettings />
+</WebDAVClientSetting>
